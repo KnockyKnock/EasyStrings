@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1448425492 source:d:\progi\1_sem\easy_strings\main.cpp
+	<iostream>
+	<string.h>
+	<stdlib.h>
+
